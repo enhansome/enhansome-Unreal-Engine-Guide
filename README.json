@@ -570,10 +570,10 @@
             "archived": false,
             "id": 217906370,
             "language": "C++",
-            "last_commit": "2026-08-24T22:48:58Z",
+            "last_commit": "2026-08-25T08:48:42Z",
             "owner": "ValveSoftware",
             "repo": "gamescope",
-            "stars": 5019
+            "stars": 5020
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-18T10:31:03Z",
             "owner": "flightlessmango",
             "repo": "MangoHud",
-            "stars": 8974
+            "stars": 8976
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-24T02:39:08Z",
             "owner": "benjamimgois",
             "repo": "goverlay",
-            "stars": 1451
+            "stars": 1453
           }
         },
         {
@@ -683,7 +683,7 @@
                 "last_commit": "2026-08-14T18:48:25Z",
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6817
+                "stars": 6818
               }
             },
             {
@@ -728,7 +728,7 @@
                 "last_commit": "2026-08-24T20:45:38Z",
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14343
+                "stars": 14342
               }
             }
           ],
@@ -889,7 +889,7 @@
                 "last_commit": "2026-08-24T15:39:04Z",
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Samples",
-                "stars": 5362
+                "stars": 5361
               }
             }
           ],
@@ -926,7 +926,7 @@
                 "last_commit": "2026-08-24T15:59:46Z",
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Tools",
-                "stars": 486
+                "stars": 487
               }
             },
             {
@@ -938,7 +938,7 @@
                 "archived": false,
                 "id": 61292682,
                 "language": "C++",
-                "last_commit": "2026-08-24T12:03:43Z",
+                "last_commit": "2026-08-25T06:31:20Z",
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Hpp",
                 "stars": 3782
@@ -953,10 +953,10 @@
                 "archived": false,
                 "id": 106558568,
                 "language": "C++",
-                "last_commit": "2026-08-24T22:24:24Z",
+                "last_commit": "2026-08-25T09:55:09Z",
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 17912
+                "stars": 17913
               }
             },
             {
@@ -1013,7 +1013,7 @@
                 "archived": false,
                 "id": 209527239,
                 "language": "C",
-                "last_commit": "2026-08-24T09:35:34Z",
+                "last_commit": "2026-08-25T08:43:26Z",
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
                 "stars": 2928
@@ -1031,7 +1031,7 @@
                 "last_commit": "2026-08-23T11:05:37Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75854
+                "stars": 75853
               }
             },
             {
@@ -1046,7 +1046,7 @@
                 "last_commit": "2026-08-12T11:40:23Z",
                 "owner": "ash-rs",
                 "repo": "ash",
-                "stars": 2331
+                "stars": 2332
               }
             },
             {
@@ -1132,7 +1132,7 @@
                 "last_commit": "2026-08-14T18:48:25Z",
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6817
+                "stars": 6818
               }
             },
             {
@@ -1147,7 +1147,7 @@
                 "last_commit": "2026-08-25T01:52:03Z",
                 "owner": "NVIDIA-RTX",
                 "repo": "NVRHI",
-                "stars": 2005
+                "stars": 2007
               }
             },
             {
@@ -1174,10 +1174,10 @@
                 "archived": false,
                 "id": 106558568,
                 "language": "C++",
-                "last_commit": "2026-08-24T22:24:24Z",
+                "last_commit": "2026-08-25T09:55:09Z",
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 17912
+                "stars": 17913
               }
             },
             {
@@ -1189,7 +1189,7 @@
                 "archived": false,
                 "id": 209527239,
                 "language": "C",
-                "last_commit": "2026-08-24T09:35:34Z",
+                "last_commit": "2026-08-25T08:43:26Z",
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
                 "stars": 2928
@@ -1278,7 +1278,7 @@
                 "last_commit": "2026-08-20T03:00:08Z",
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 12918
+                "stars": 12920
               }
             }
           ],
@@ -1438,7 +1438,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:45:05Z",
+                "last_commit": "2026-08-25T08:51:22Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5261
@@ -1556,10 +1556,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T22:03:42Z",
+                "last_commit": "2026-08-25T07:44:03Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14319
+                "stars": 14324
               }
             },
             {
@@ -1617,7 +1617,7 @@
                 "last_commit": "2026-08-20T10:37:54Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10294
+                "stars": 10296
               }
             },
             {
@@ -1674,7 +1674,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:45:05Z",
+                "last_commit": "2026-08-25T08:51:22Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5261
@@ -1793,7 +1793,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45266
+                "stars": 45267
               }
             }
           ],
@@ -1842,7 +1842,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-25T04:20:49Z",
+                "last_commit": "2026-08-25T07:50:20Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -1860,7 +1860,7 @@
                 "last_commit": "2026-08-25T01:20:49Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27391
+                "stars": 27392
               }
             },
             {
@@ -1985,7 +1985,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38449
+                "stars": 38450
               }
             },
             {
@@ -2105,7 +2105,7 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33841
+                "stars": 33843
               }
             }
           ],
@@ -2130,7 +2130,7 @@
                 "archived": false,
                 "id": 147782918,
                 "language": "Lua",
-                "last_commit": "2026-08-24T15:58:33Z",
+                "last_commit": "2026-08-25T10:53:00Z",
                 "owner": "LuaLS",
                 "repo": "lua-language-server",
                 "stars": 4347
@@ -2148,7 +2148,7 @@
                 "last_commit": "2026-08-24T08:34:19Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17028
+                "stars": 17029
               }
             },
             {
@@ -2178,7 +2178,7 @@
                 "last_commit": "2026-04-01T00:54:16Z",
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6970
+                "stars": 6971
               }
             },
             {
@@ -2296,7 +2296,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38449
+                "stars": 38450
               }
             },
             {
@@ -2366,10 +2366,10 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:41:22Z",
+                "last_commit": "2026-08-25T10:59:18Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80285
+                "stars": 80286
               }
             },
             {
@@ -2399,7 +2399,7 @@
                 "last_commit": "2026-08-23T22:21:05Z",
                 "owner": "Netflix",
                 "repo": "atlas",
-                "stars": 3562
+                "stars": 3563
               }
             }
           ],
@@ -2434,7 +2434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:21.669Z",
+    "last_updated": "2026-08-25T11:17:36.342Z",
     "original_repository": "mikeroyal/Unreal-Engine-Guide",
     "original_repository_id": 439977823,
     "original_repository_sha": "048895b8747f79a8a7e3f480ce797847044e2d92",
