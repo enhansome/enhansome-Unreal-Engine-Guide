@@ -20,78 +20,78 @@
 
 # Table of Contents
 
-1. [Getting Started with Unreal Engine](https://github.com/mikeroyal/Unreal-Engine-Guide#getting-started-with-unreal-engine) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+1. [Getting Started with Unreal Engine](https://github.com/mikeroyal/Unreal-Engine-Guide#getting-started-with-unreal-engine) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-   * [Unreal Engine Tools](https://github.com/mikeroyal/Unreal-Engine-Guide#unreal-engine-tools) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+   * [Unreal Engine Tools](https://github.com/mikeroyal/Unreal-Engine-Guide#unreal-engine-tools) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-   * [Unreal Engine Learning Resources](https://github.com/mikeroyal/Unreal-Engine-Guide#unreal-engine-learning-resources) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+   * [Unreal Engine Learning Resources](https://github.com/mikeroyal/Unreal-Engine-Guide#unreal-engine-learning-resources) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-   * [Xbox](https://github.com/mikeroyal/Unreal-Engine-Guide#xbox-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+   * [Xbox](https://github.com/mikeroyal/Unreal-Engine-Guide#xbox-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-   * [PlayStation](https://github.com/mikeroyal/Unreal-Engine-Guide#playstation-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+   * [PlayStation](https://github.com/mikeroyal/Unreal-Engine-Guide#playstation-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-   * [Nintendo Switch](https://github.com/mikeroyal/Unreal-Engine-Guide#nintendo-switch-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+   * [Nintendo Switch](https://github.com/mikeroyal/Unreal-Engine-Guide#nintendo-switch-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-   * [Steam Deck](https://github.com/mikeroyal/Unreal-Engine-Guide#steam-deck-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+   * [Steam Deck](https://github.com/mikeroyal/Unreal-Engine-Guide#steam-deck-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-   * [Linux](https://github.com/mikeroyal/Unreal-Engine-Guide#linux-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+   * [Linux](https://github.com/mikeroyal/Unreal-Engine-Guide#linux-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
    * [Unreal Engine 5 Books](#unreal-engine-5-books)
 
    * [YouTube Video Tutorials](#youtube-video-tutorials)
 
-2. [Xcode Development](https://github.com/mikeroyal/Unreal-Engine-Guide#xcode-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+2. [Xcode Development](https://github.com/mikeroyal/Unreal-Engine-Guide#xcode-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-3. [Game Development](https://github.com/mikeroyal/Unreal-Engine-Guide#game-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+3. [Game Development](https://github.com/mikeroyal/Unreal-Engine-Guide#game-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-4. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Unreal-Engine-Guide#augmented-reality-ar--virtual-reality-vr) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+4. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Unreal-Engine-Guide#augmented-reality-ar--virtual-reality-vr) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-5. [Vulkan Development](https://github.com/mikeroyal/Unreal-Engine-Guide#vulkan-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+5. [Vulkan Development](https://github.com/mikeroyal/Unreal-Engine-Guide#vulkan-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-6. [Metal Development](https://github.com/mikeroyal/Unreal-Engine-Guide#metal-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+6. [Metal Development](https://github.com/mikeroyal/Unreal-Engine-Guide#metal-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-7. [DirectX Development](https://github.com/mikeroyal/Unreal-Engine-Guide#directx-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+7. [DirectX Development](https://github.com/mikeroyal/Unreal-Engine-Guide#directx-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-8. [Computer Vision Development](https://github.com/mikeroyal/Unreal-Engine-Guide#computer-vision-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+8. [Computer Vision Development](https://github.com/mikeroyal/Unreal-Engine-Guide#computer-vision-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-9. [Photogrammetry Development](https://github.com/mikeroyal/Unreal-Engine-Guide#photogrammetry-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+9. [Photogrammetry Development](https://github.com/mikeroyal/Unreal-Engine-Guide#photogrammetry-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-10. [Geometric optics](https://github.com/mikeroyal/Unreal-Engine-Guide#Geometric-optics) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+10. [Geometric optics](https://github.com/mikeroyal/Unreal-Engine-Guide#Geometric-optics) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-11. [Autodesk Development](https://github.com/mikeroyal/Unreal-Engine-Guide#autodesk-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+11. [Autodesk Development](https://github.com/mikeroyal/Unreal-Engine-Guide#autodesk-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-12. [LiDAR Development](https://github.com/mikeroyal/Unreal-Engine-Guide#lidar-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+12. [LiDAR Development](https://github.com/mikeroyal/Unreal-Engine-Guide#lidar-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-13. [Linear Algebra](https://github.com/mikeroyal/Unreal-Engine-Guide#linear-algebra) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+13. [Linear Algebra](https://github.com/mikeroyal/Unreal-Engine-Guide#linear-algebra) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-14. [Algorithms](https://github.com/mikeroyal/Unreal-Engine-Guide#algorithms) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+14. [Algorithms](https://github.com/mikeroyal/Unreal-Engine-Guide#algorithms) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-15. [Machine Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#machine-learning) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+15. [Machine Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#machine-learning) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-16. [Deep Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#deep-learning) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+16. [Deep Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#deep-learning) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-17. [CUDA Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cuda-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+17. [CUDA Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cuda-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-18. [MATLAB Development](https://github.com/mikeroyal/Unreal-Engine-Guide#matlab-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+18. [MATLAB Development](https://github.com/mikeroyal/Unreal-Engine-Guide#matlab-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-19. [C/C++ Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cc-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+19. [C/C++ Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cc-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-20. [Python Development](https://github.com/mikeroyal/Unreal-Engine-Guide#python-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+20. [Python Development](https://github.com/mikeroyal/Unreal-Engine-Guide#python-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-21. [Lua Development](https://github.com/mikeroyal/Unreal-Engine-Guide#lua-development) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+21. [Lua Development](https://github.com/mikeroyal/Unreal-Engine-Guide#lua-development) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-22. [Networking](https://github.com/mikeroyal/Unreal-Engine-Guide#networking) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+22. [Networking](https://github.com/mikeroyal/Unreal-Engine-Guide#networking) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
-23. [Databases](https://github.com/mikeroyal/Unreal-Engine-Guide#databases) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+23. [Databases](https://github.com/mikeroyal/Unreal-Engine-Guide#databases) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 24. [Visual Studio and VSCode](#visual-studio-and-vscode)
 
-    * [Visual Studio Extensions for Developer Productivity](https://github.com/mikeroyal/Unreal-Engine-Guide#Visual-Studio-Extensions-for-Developer-Productivity) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
-    * [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Unreal-Engine-Guide#VS-Code-Extensions-for-Developer-Productivity) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+    * [Visual Studio Extensions for Developer Productivity](https://github.com/mikeroyal/Unreal-Engine-Guide#Visual-Studio-Extensions-for-Developer-Productivity) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+    * [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Unreal-Engine-Guide#VS-Code-Extensions-for-Developer-Productivity) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 # Awesome Getting Started with Unreal Engine with stars
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 [Unreal Engine](https://www.unrealengine.com/unreal-engine-5) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
 
@@ -382,7 +382,7 @@ Image Credit: [Adobe](https://substance3d.adobe.com/plugins/substance-in-unreal-
 
 ## Xbox Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 **Quick links to Development Resources**
 
@@ -412,7 +412,7 @@ Image Credit: [Adobe](https://substance3d.adobe.com/plugins/substance-in-unreal-
 
 ## PlayStation Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 **Quick links to Development Resources**
 
@@ -463,7 +463,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 ## Nintendo Switch Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 **Quick links to Development Resources**
 
@@ -483,7 +483,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 ## Steam Deck Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 **Quick links to Development Resources**
 
@@ -515,13 +515,13 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 [Steam Cloud](https://partner.steamgames.com/doc/features/cloud) is a tool that provides an easy and transparent remote file storage system for your game. Files specified in the Auto-Cloud configuration or written to disk (created, modified, deleted, etc.) using the Cloud API will automatically be replicated to the Steam servers after the game exits. If the user changes computers, the files are automatically downloaded to the new computer prior to the game launching. The game can then access the files by reading them through the Cloud API or reading them directly from disk as usual. Avoid machine specific configurations such as video settings.
 
-[Gamescope](https://github.com/Plagman/gamescope) ⭐ 5,020 | 🐛 949 | 🌐 C++ | 📅 2026-08-26 is a SteamOS session micro-compositing window manager formerly known as [steamcompmgr](https://github.com/ValveSoftware/steamos-compositor) ⭐ 171 | 🐛 4 | 🌐 C | 📅 2023-10-16.
+[Gamescope](https://github.com/Plagman/gamescope) ⭐ 5,022 | 🐛 950 | 🌐 C++ | 📅 2026-08-26 is a SteamOS session micro-compositing window manager formerly known as [steamcompmgr](https://github.com/ValveSoftware/steamos-compositor) ⭐ 171 | 🐛 4 | 🌐 C | 📅 2023-10-16.
 
 [AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
 
-[MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 8,978 | 🐛 324 | 🌐 C | 📅 2026-08-25 is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+[MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 8,980 | 🐛 325 | 🌐 C | 📅 2026-08-25 is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
-[GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,455 | 🐛 87 | 🌐 Pascal | 📅 2026-08-25 is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
+[GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,457 | 🐛 88 | 🌐 Pascal | 📅 2026-08-27 is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
 
 [ReplaySorcery](https://github.com/matanui159/ReplaySorcery) ⭐ 874 | 🐛 34 | 🌐 C | 📅 2023-01-09 is an open-source, instant-replay solution for Linux.
 
@@ -586,7 +586,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
-[VSExtensibility](https://github.com/microsoft/VSExtensibility) ⭐ 440 | 🐛 127 | 🌐 C# | 📅 2026-06-26 is a repo for upcoming changes to extensibility in Visual Studio, the new extensibility model, and [Language Server Protocol(LSP)](https://github.com/microsoft/VSExtensibility/blob/main/docs/lsp/lsp-extensions-specifications.md) ⭐ 440 | 🐛 127 | 🌐 C# | 📅 2026-06-26.
+[VSExtensibility](https://github.com/microsoft/VSExtensibility) ⭐ 440 | 🐛 127 | 🌐 C# | 📅 2026-08-26 is a repo for upcoming changes to extensibility in Visual Studio, the new extensibility model, and [Language Server Protocol(LSP)](https://github.com/microsoft/VSExtensibility/blob/main/docs/lsp/lsp-extensions-specifications.md) ⭐ 440 | 🐛 127 | 🌐 C# | 📅 2026-08-26.
 
 [Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/)
 
@@ -749,7 +749,7 @@ VS Code Marketplace
 
 # Xcode Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/141201793-f31f4899-7317-49a7-808b-6e551df23bf9.png">
@@ -847,7 +847,7 @@ Developing with SwiftUI in Xcode 14
 
 # Game Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -905,7 +905,7 @@ Developing with SwiftUI in Xcode 14
 
 [High Level Shading Language(HLSL)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) is the High Level Shading Language for DirectX. Using HLSL, the user can create C-like programmable shaders for the Direct3D pipeline. HLSL was first created with DirectX 9 to set up the programmable 3D pipeline.
 
-[DirectX 12 Ultimate](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,819 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is an API(for high performance 2D & 3D graphics) from Microsoft. DirectX 12 Ultimate brings support for ray tracing, mesh shaders, variable rate shading, and sampler feedback. Available in Windows 2004 version(May 2020 Update).
+[DirectX 12 Ultimate](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,820 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is an API(for high performance 2D & 3D graphics) from Microsoft. DirectX 12 Ultimate brings support for ray tracing, mesh shaders, variable rate shading, and sampler feedback. Available in Windows 2004 version(May 2020 Update).
 
 [Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium.
 
@@ -933,11 +933,11 @@ Developing with SwiftUI in Xcode 14
 
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
 
-[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,337 | 🐛 338 | 🌐 Java | 📅 2026-08-25 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,336 | 🐛 340 | 🌐 Java | 📅 2026-08-25 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
 
-[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,162 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
+[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,163 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,347 | 🐛 752 | 🌐 C# | 📅 2026-08-26 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,352 | 🐛 754 | 🌐 C# | 📅 2026-08-26 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
 
 [Three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
@@ -953,7 +953,7 @@ Developing with SwiftUI in Xcode 14
 
 # Augmented Reality (AR) & Virtual Reality (VR)
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/130368380-37b7c0cd-ed71-4a52-8b16-4ac802e059d4.png">
@@ -1064,7 +1064,7 @@ SteamVR Home
 </p>
 Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveindex)
 
-[OpenVR](https://github.com/ValveSoftware/openvr) ⭐ 6,641 | 🐛 1,043 | 🌐 C++ | 📅 2026-03-27 is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
+[OpenVR](https://github.com/ValveSoftware/openvr) ⭐ 6,642 | 🐛 1,043 | 🌐 C++ | 📅 2026-03-27 is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
 
 [OpenVR Benchmark on Steam](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset.
 
@@ -1080,7 +1080,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 # Vulkan Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622224-8c4cca51-9200-4d70-9d16-2610d704713a.png">
@@ -1093,9 +1093,9 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Khronos Group GitHub](https://github.com/KhronosGroup)
 
-[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,325 | 🐛 385 | 🌐 JavaScript | 📅 2026-08-14
+[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,327 | 🐛 383 | 🌐 JavaScript | 📅 2026-08-27
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,629 | 🐛 782 | 🌐 C++ | 📅 2026-08-25
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,629 | 🐛 779 | 🌐 C++ | 📅 2026-08-27
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
@@ -1115,7 +1115,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 487 | 🐛 28 | 🌐 C++ | 📅 2026-08-24 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
-[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,782 | 🐛 26 | 🌐 C++ | 📅 2026-08-26 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,782 | 🐛 28 | 🌐 C++ | 📅 2026-08-27 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
 [Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
 
@@ -1129,7 +1129,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,921 | 🐛 254 | 🌐 C++ | 📅 2026-08-26 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,934 | 🐛 255 | 🌐 C++ | 📅 2026-08-26 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -1141,13 +1141,13 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [VulkanSharp](https://github.com/mono/VulkanSharp) ⚠️ Archived is a project provides a .NET binding for the Vulkan API.
 
-[Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 395 | 🐛 2 | 🌐 C# | 📅 2026-05-25 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
+[Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 396 | 🐛 2 | 🌐 C# | 📅 2026-05-25 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,928 | 🐛 347 | 🌐 C | 📅 2026-08-26 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,929 | 🐛 341 | 🌐 C | 📅 2026-08-27 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 75,869 | 🐛 1,235 | 🌐 C++ | 📅 2026-08-23 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 75,889 | 🐛 1,237 | 🌐 C++ | 📅 2026-08-23 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
-[Ash](https://github.com/MaikKlein/ash) ⭐ 2,331 | 🐛 78 | 🌐 Rust | 📅 2026-08-12 is a very lightweight wrapper around Vulkan.
+[Ash](https://github.com/MaikKlein/ash) ⭐ 2,332 | 🐛 78 | 🌐 Rust | 📅 2026-08-27 is a very lightweight wrapper around Vulkan.
 
 [gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,398 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 is a low-level, cross-platform graphics and compute abstraction library in Rust.
 
@@ -1155,7 +1155,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 # Metal Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622324-243aca6c-1feb-4b16-abef-70ad8b97f488.png">
@@ -1242,7 +1242,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 # DirectX Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/146693482-58c6d5d6-06ff-4ba9-b77e-38307358370d.png">
@@ -1277,7 +1277,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,819 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
+[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,820 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
 
 [PIX on Windows](https://devblogs.microsoft.com/pix/documentation/) is a performance tuning and debugging tool for DirectX 12 games on Windows.
 
@@ -1285,7 +1285,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
 
-[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,008 | 🐛 26 | 🌐 C++ | 📅 2026-08-25 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
+[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,008 | 🐛 27 | 🌐 C++ | 📅 2026-08-25 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
 
 [RTXMU - RTX Memory Utility SDK](https://github.com/NVIDIAGameWorks/RTXMU) ⭐ 143 | 🐛 2 | 🌐 C++ | 📅 2025-10-30 is an SDK tool that batchs up all of the acceleration structure build inputs and pass them to RTXMU which in turn will perform all the suballocation memory requests and build details including compaction. Then post build info is abstracted away by the SDK in order to do compaction under the hood. RTXMU returns acceleration structure handle ids that are used to reference the underlying memory buffers. These handle ids are passed into RTXMU to create compaction copy workloads, deallocate unused build resources or remove all memory associated with an acceleration structure.
 
@@ -1301,15 +1301,15 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,921 | 🐛 254 | 🌐 C++ | 📅 2026-08-26 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,934 | 🐛 255 | 🌐 C++ | 📅 2026-08-26 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,928 | 🐛 347 | 🌐 C | 📅 2026-08-26 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,929 | 🐛 341 | 🌐 C | 📅 2026-08-27 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
 [RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
 # Computer Vision Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129494417-b0ee8192-ac41-4a6d-8e1d-4761ffc8bab1.png">
@@ -1390,7 +1390,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 # Photogrammetry Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129494677-0341843b-c78c-4027-8a2c-43e98a995f6f.png">
@@ -1455,17 +1455,17 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Multi-View Environment (MVE)](https://www.gcc.tu-darmstadt.de/home/proj/mve/) is an effort to ease the work with multi-view datasets and to support the development of algorithms based on multiple views. It features Structure from Motion, Multi-View Stereo and Surface Reconstruction. MVE is developed at the TU Darmstadt.
 
-[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,486 | 🐛 40 | 🌐 C++ | 📅 2026-08-25 is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms. AliceVision comes up with strong software basis and state-of-the-art computer vision algorithms that can be tested, analyzed and reused.
+[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,486 | 🐛 41 | 🌐 C++ | 📅 2026-08-27 is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms. AliceVision comes up with strong software basis and state-of-the-art computer vision algorithms that can be tested, analyzed and reused.
 
-[Meshroom](https://github.com/alicevision/meshroom) ⭐ 12,922 | 🐛 516 | 🌐 Python | 📅 2026-08-26 is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
+[Meshroom](https://github.com/alicevision/meshroom) ⭐ 12,927 | 🐛 516 | 🌐 Python | 📅 2026-08-26 is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
 
 [PhotoModeler](https://www.photomodeler.com/) is a software extracts Measurements and Models from photographs taken with an ordinary camera. A cost-effective way for accurate 2D or 3D measurement, photo-digitizing, surveying, 3D scanning, and reality capture.
 
 [ODM](https://www.opendronemap.org/odm/) is an open source command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.
 
-[WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,406 | 🐛 114 | 🌐 Python | 📅 2026-08-26 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
+[WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,419 | 🐛 112 | 🌐 Python | 📅 2026-08-26 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
 
-[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 301 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-25 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,406 | 🐛 114 | 🌐 Python | 📅 2026-08-26. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,116 | 🐛 50 | 🌐 Python | 📅 2026-08-25, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 72 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
+[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 301 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-25 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,419 | 🐛 112 | 🌐 Python | 📅 2026-08-26. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,118 | 🐛 50 | 🌐 Python | 📅 2026-08-25, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 72 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
 
 [ClusterODM](https://www.opendronemap.org/clusterodm/) is a reverse proxy, load balancer and task tracker with optional cloud autoscaling capabilities for NodeODM API compatible nodes. In a nutshell, it's a program to link together multiple NodeODM API compatible nodes under a single network address.
 
@@ -1479,11 +1479,11 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [PhotoCatch Cloud](https://www.photocatch.app/cloud) is a professional service that brings desktop class photogrammetry and 3D editing tools to mobile devices, so you can capture, edit, and share 3D content on-site. It Syncs photo capture with your equipment and use Depth Capture so your 3D models stay the same size as the real world objects.
 
-[Martin](https://martin.maplibre.org/) is a tile server able to generate [vector tiles](https://github.com/mapbox/vector-tile-spec) ⭐ 1,004 | 🐛 46 | 📅 2026-06-29 from large [PostGIS](https://github.com/postgis/postgis) ⭐ 2,208 | 🐛 57 | 🌐 PLpgSQL | 📅 2026-08-26 databases on the fly, or serve tiles from [PMTile](https://protomaps.com/blog/pmtiles-v3-whats-new) and [MBTile](https://github.com/mapbox/mbtiles-spec) ⭐ 670 | 🐛 19 | 📅 2026-06-29 files. Martin optimizes for speed and heavy traffic, and is written in Rust.
+[Martin](https://martin.maplibre.org/) is a tile server able to generate [vector tiles](https://github.com/mapbox/vector-tile-spec) ⭐ 1,004 | 🐛 46 | 📅 2026-06-29 from large [PostGIS](https://github.com/postgis/postgis) ⭐ 2,211 | 🐛 57 | 🌐 PLpgSQL | 📅 2026-08-27 databases on the fly, or serve tiles from [PMTile](https://protomaps.com/blog/pmtiles-v3-whats-new) and [MBTile](https://github.com/mapbox/mbtiles-spec) ⭐ 670 | 🐛 19 | 📅 2026-06-29 files. Martin optimizes for speed and heavy traffic, and is written in Rust.
 
 # Geometric optics
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 ```
 - Reflection and refraction: Geometric optics
@@ -1507,7 +1507,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 # Autodesk Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/122687186-060c4b00-d1ca-11eb-9e90-f51a3ebf4e43.png">
@@ -1772,7 +1772,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 # LiDAR Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/121950812-f5ae2900-cd0e-11eb-8989-9188bd18a68c.png">
@@ -1852,7 +1852,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 # Linear Algebra
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124998626-9a1b4680-e001-11eb-9a49-1e97604e8a10.png">
@@ -2172,7 +2172,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Algorithms
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
@@ -2257,7 +2257,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Machine Learning
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352527-ad077880-1078-11eb-98b7-da1c0586cf0e.png">
@@ -2338,7 +2338,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,555 | 🐛 1,595 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,592 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
 [Theano](https://github.com/Theano/Theano) ⭐ 9,998 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
@@ -2362,17 +2362,17 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,128 | 🐛 1,797 | 🌐 Python | 📅 2026-08-26 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,130 | 🐛 1,799 | 🌐 Python | 📅 2026-08-26 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,277 | 🐛 709 | 🌐 Python | 📅 2026-08-25 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,279 | 🐛 709 | 🌐 Python | 📅 2026-08-25 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,263 | 🐛 853 | 🌐 Python | 📅 2026-08-26 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,264 | 🐛 848 | 🌐 Python | 📅 2026-08-27 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # Deep Learning
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/133943699-6dcfcb40-ddf7-4501-86e0-41e8aee91fe2.png">
@@ -2525,7 +2525,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,555 | 🐛 1,595 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,592 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
 [Theano](https://github.com/Theano/Theano) ⭐ 9,998 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
@@ -2533,7 +2533,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,326 | 🐛 1,194 | 🌐 C++ | 📅 2026-08-26 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,328 | 🐛 1,192 | 🌐 C++ | 📅 2026-08-27 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 643 | 🐛 185 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
@@ -2565,7 +2565,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # CUDA Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306481-e17b8f00-ff27-11ea-832f-c85374acb3b1.png">
@@ -2607,19 +2607,19 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [CUDA-X HPC](https://www.nvidia.com/en-us/technologies/cuda-x/) is a collection of libraries, tools, compilers and APIs that help developers solve the world's most challenging problems. CUDA-X HPC includes highly tuned kernels essential for high-performance computing (HPC).
 
-[NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) ⚠️ Archived is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime [library](https://github.com/NVIDIA/libnvidia-container) ⭐ 1,121 | 🐛 14 | 🌐 C | 📅 2026-08-24 and utilities to automatically configure containers to leverage NVIDIA GPUs.
+[NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) ⚠️ Archived is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime [library](https://github.com/NVIDIA/libnvidia-container) ⭐ 1,122 | 🐛 14 | 🌐 C | 📅 2026-08-26 and utilities to automatically configure containers to leverage NVIDIA GPUs.
 
 [Minkowski Engine](https://nvidia.github.io/MinkowskiEngine) is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.
 
-[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,309 | 🐛 691 | 🌐 C++ | 📅 2026-08-26 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
+[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,323 | 🐛 694 | 🌐 C++ | 📅 2026-08-27 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
 
 [CUB](https://github.com/NVIDIA/cub) ⚠️ Archived is a cooperative primitives for CUDA C++ kernel authors.
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,128 | 🐛 1,797 | 🌐 Python | 📅 2026-08-26 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,130 | 🐛 1,799 | 🌐 Python | 📅 2026-08-26 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,277 | 🐛 709 | 🌐 Python | 📅 2026-08-25 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,279 | 🐛 709 | 🌐 Python | 📅 2026-08-25 for high performance training and inference.
 
 [CuPy](https://cupy.dev/) is an implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it. It supports a subset of numpy.ndarray interface.
 
@@ -2627,7 +2627,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [cuDF](https://rapids.ai/) is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,263 | 🐛 853 | 🌐 Python | 📅 2026-08-26 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,264 | 🐛 848 | 🌐 Python | 📅 2026-08-27 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 [ArrayFire](https://arrayfire.com/) is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices.
 
@@ -2643,7 +2643,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # MATLAB Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306473-de809e80-ff27-11ea-924b-0a6947ae38bc.png">
@@ -2696,7 +2696,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [MATLAB Parallel Server™](https://www.mathworks.com/products/matlab-parallel-server.html) is a tool that lets you scale MATLAB® programs and Simulink® simulations to clusters and clouds. You can prototype your programs and simulations on the desktop and then run them on clusters and clouds without recoding. MATLAB Parallel Server supports batch jobs, interactive parallel computations, and distributed computations with large matrices.
 
-[MATLAB Schemer](https://github.com/scottclowe/matlab-schemer) ⭐ 1,257 | 🐛 19 | 🌐 MATLAB | 📅 2023-12-13 is a MATLAB package makes it easy to change the color scheme (theme) of the MATLAB display and GUI.
+[MATLAB Schemer](https://github.com/scottclowe/matlab-schemer) ⭐ 1,258 | 🐛 19 | 🌐 MATLAB | 📅 2023-12-13 is a MATLAB package makes it easy to change the color scheme (theme) of the MATLAB display and GUI.
 
 [LRSLibrary](https://github.com/andrewssobral/lrslibrary) ⭐ 886 | 🐛 3 | 🌐 MATLAB | 📅 2025-11-22 is a Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos. The library was designed for moving object detection in videos, but it can be also used for other computer vision and machine learning problems.
 
@@ -2750,7 +2750,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/146693483-c944138d-e703-4066-b19d-f2b0d9d69cbf.png">
@@ -2785,7 +2785,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,274 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,280 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -2831,17 +2831,17 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 205 | 🐛 170 | 🌐 C++ | 📅 2026-08-25
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 205 | 🐛 170 | 🌐 C++ | 📅 2026-08-26
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 207 | 🌐 C++ | 📅 2026-08-26
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 207 | 🌐 C++ | 📅 2026-08-27
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,398 | 🐛 1,183 | 🌐 CMake | 📅 2026-08-25 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,403 | 🐛 1,200 | 🌐 CMake | 📅 2026-08-26 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -2853,7 +2853,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
 
-[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,404 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
+[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,406 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
 
 [Conan](https://conan.io/) is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.
 
@@ -2895,7 +2895,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,524 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,530 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -2903,7 +2903,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Python Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133273-ce490380-f68b-11ea-81d0-7f6a3debe6c0.png">
@@ -2970,17 +2970,17 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,449 | 🐛 333 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,460 | 🐛 334 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
 [Sentry](https://sentry.io/) is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
-[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,037 | 🐛 12 | 🌐 Python | 📅 2026-08-24 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
+[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,035 | 🐛 12 | 🌐 Python | 📅 2026-08-24 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
 
-[Python Fire](https://github.com/google/python-fire) ⭐ 28,205 | 🐛 194 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+[Python Fire](https://github.com/google/python-fire) ⭐ 28,209 | 🐛 194 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
-[Bottle](https://github.com/bottlepy/bottle) ⭐ 8,778 | 🐛 288 | 🌐 Python | 📅 2026-07-19 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
+[Bottle](https://github.com/bottlepy/bottle) ⭐ 8,779 | 🐛 288 | 🌐 Python | 📅 2026-07-19 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
 
 [CherryPy](https://cherrypy.org) is a minimalist Python object-oriented HTTP web framework.
 
@@ -2998,9 +2998,9 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Luigi](https://github.com/spotify/luigi) ⭐ 18,765 | 🐛 170 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
-[Locust](https://github.com/locustio/locust) ⭐ 28,101 | 🐛 4 | 🌐 Python | 📅 2026-08-24 is an easy to use, scriptable and scalable performance testing tool.
+[Locust](https://github.com/locustio/locust) ⭐ 28,107 | 🐛 3 | 🌐 Python | 📅 2026-08-26 is an easy to use, scriptable and scalable performance testing tool.
 
-[spaCy](https://github.com/explosion/spaCy) ⭐ 33,848 | 🐛 237 | 🌐 Python | 📅 2026-08-24 is a library for advanced Natural Language Processing in Python and Cython.
+[spaCy](https://github.com/explosion/spaCy) ⭐ 33,854 | 🐛 236 | 🌐 Python | 📅 2026-08-24 is a library for advanced Natural Language Processing in Python and Cython.
 
 [NumPy](https://www.numpy.org/) is the fundamental package needed for scientific computing with Python.
 
@@ -3020,7 +3020,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Lua Development
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/99859431-e1bd9280-2b44-11eb-84f7-854d3e015e21.png">
@@ -3047,9 +3047,9 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 ## Lua Tools, Libraries, and Frameworks
 
-[Lua Language Server](https://github.com/sumneko/lua-language-server) ⭐ 4,347 | 🐛 702 | 🌐 Lua | 📅 2026-08-26 is an extension for VSCode that provides support for the Lua Language Server.
+[Lua Language Server](https://github.com/sumneko/lua-language-server) ⭐ 4,347 | 🐛 702 | 🌐 Lua | 📅 2026-08-27 is an extension for VSCode that provides support for the Lua Language Server.
 
-[Apache APISIX](https://github.com/apache/apisix) ⭐ 17,037 | 🐛 252 | 🌐 Lua | 📅 2026-08-26 is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.
+[Apache APISIX](https://github.com/apache/apisix) ⭐ 17,041 | 🐛 251 | 🌐 Lua | 📅 2026-08-27 is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.
 
 [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) ⭐ 7,943 | 🐛 119 | 🌐 C | 📅 2026-06-07 is an open source Lua based firmware for the [ESP8266 WiFi SOC from Espressif](https://espressif.com/en/products/esp8266/) and uses an on-module flash-based [SPIFFS](https://github.com/pellepl/spiffs) ⭐ 1,621 | 🐛 104 | 🌐 C | 📅 2026-07-16 file system.
 
@@ -3065,13 +3065,13 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Luakit](https://luakit.github.io/) is a fast, light and simple to use micro-browser framework extensible by Lua using the WebKit web content engine and the GTK+ toolkit.
 
-[Lua Resty HTTP](https://github.com/ledgetech/lua-resty-http) ⭐ 2,078 | 🐛 42 | 🌐 Lua | 📅 2026-08-11 is an HTTP client cosocket driver for [OpenResty](https://openresty.org/en/)/ [ngx\_lua](https://github.com/openresty/lua-nginx-module) ⭐ 11,787 | 🐛 392 | 🌐 C | 📅 2026-08-24.
+[Lua Resty HTTP](https://github.com/ledgetech/lua-resty-http) ⭐ 2,078 | 🐛 42 | 🌐 Lua | 📅 2026-08-11 is an HTTP client cosocket driver for [OpenResty](https://openresty.org/en/)/ [ngx\_lua](https://github.com/openresty/lua-nginx-module) ⭐ 11,790 | 🐛 393 | 🌐 C | 📅 2026-08-24.
 
-[NLua](https://github.com/NLua/NLua) ⭐ 2,243 | 🐛 111 | 🌐 C# | 📅 2026-08-25 is a bridge between Lua world and the .NET (compatible with .NET Core/UWP/Mac/Linux/Android/iOS/tvOS).
+[NLua](https://github.com/NLua/NLua) ⭐ 2,243 | 🐛 112 | 🌐 C# | 📅 2026-08-25 is a bridge between Lua world and the .NET (compatible with .NET Core/UWP/Mac/Linux/Android/iOS/tvOS).
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
@@ -3094,7 +3094,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,449 | 🐛 333 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,460 | 🐛 334 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,217 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
@@ -3214,7 +3214,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Databases
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/119279004-daec0700-bbdd-11eb-9662-b1fc86ec8448.png">
@@ -3268,7 +3268,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## SQL/NoSQL Tools and Databases
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,303 | 🐛 392 | 🌐 Go | 📅 2026-08-26 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,320 | 🐛 387 | 🌐 Go | 📅 2026-08-27 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -3340,7 +3340,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [InfluxDB](https://www.influxdata.com/) is an open source time series platform.  This includes APIs for storing and querying data, processing it in the background for [ETL](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl) or monitoring and alerting purposes, user dashboards, Internet of Things sensor data, and visualizing and exploring the data and more. It also has support for processing data from [Graphite](http://graphiteapp.org/).
 
-[Atlas](https://github.com/Netflix/atlas) ⭐ 3,563 | 🐛 8 | 🌐 Scala | 📅 2026-08-25 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
+[Atlas](https://github.com/Netflix/atlas) ⭐ 3,564 | 🐛 8 | 🌐 Scala | 📅 2026-08-27 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
 
 [CouchbaseDB](https://www.couchbase.com/) is an open source distributed [multi-model NoSQL document-oriented database](https://en.wikipedia.org/wiki/Multi-model_database). It creates a key-value store with managed cache for sub-millisecond data operations, with purpose-built indexers for efficient queries and a powerful query engine for executing SQL queries.
 
@@ -3364,14 +3364,14 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Unreal-Engine-Guide/pulls) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Unreal-Engine-Guide/pulls) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27.
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,510 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents) ⭐ 1,509 | 🐛 2 | 🌐 C++ | 📅 2025-06-27
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
