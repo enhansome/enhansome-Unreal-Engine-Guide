@@ -515,11 +515,11 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 [Steam Cloud](https://partner.steamgames.com/doc/features/cloud) is a tool that provides an easy and transparent remote file storage system for your game. Files specified in the Auto-Cloud configuration or written to disk (created, modified, deleted, etc.) using the Cloud API will automatically be replicated to the Steam servers after the game exits. If the user changes computers, the files are automatically downloaded to the new computer prior to the game launching. The game can then access the files by reading them through the Cloud API or reading them directly from disk as usual. Avoid machine specific configurations such as video settings.
 
-[Gamescope](https://github.com/Plagman/gamescope) ⭐ 5,143 | 🐛 977 | 🌐 C++ | 📅 2026-10-05 is a SteamOS session micro-compositing window manager formerly known as [steamcompmgr](https://github.com/ValveSoftware/steamos-compositor) ⭐ 175 | 🐛 4 | 🌐 C | 📅 2023-10-16.
+[Gamescope](https://github.com/Plagman/gamescope) ⭐ 5,145 | 🐛 979 | 🌐 C++ | 📅 2026-10-05 is a SteamOS session micro-compositing window manager formerly known as [steamcompmgr](https://github.com/ValveSoftware/steamos-compositor) ⭐ 175 | 🐛 4 | 🌐 C | 📅 2023-10-16.
 
 [AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
 
-[MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,101 | 🐛 345 | 🌐 C | 📅 2026-10-05 is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+[MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,102 | 🐛 344 | 🌐 C | 📅 2026-10-06 is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
 [GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,521 | 🐛 81 | 🌐 Pascal | 📅 2026-10-05 is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
 
@@ -933,11 +933,11 @@ Developing with SwiftUI in Xcode 14
 
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
 
-[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,421 | 🐛 344 | 🌐 Java | 📅 2026-09-24 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,422 | 🐛 343 | 🌐 Java | 📅 2026-10-06 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
 
-[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,208 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
+[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,209 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,489 | 🐛 756 | 🌐 C# | 📅 2026-10-05 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,491 | 🐛 756 | 🌐 C# | 📅 2026-10-05 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
 
 [Three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
@@ -1064,7 +1064,7 @@ SteamVR Home
 </p>
 Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveindex)
 
-[OpenVR](https://github.com/ValveSoftware/openvr) ⭐ 6,676 | 🐛 1,044 | 🌐 C++ | 📅 2026-03-27 is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
+[OpenVR](https://github.com/ValveSoftware/openvr) ⭐ 6,677 | 🐛 1,044 | 🌐 C++ | 📅 2026-03-27 is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
 
 [OpenVR Benchmark on Steam](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset.
 
@@ -1093,15 +1093,15 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Khronos Group GitHub](https://github.com/KhronosGroup)
 
-[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,347 | 🐛 392 | 🌐 JavaScript | 📅 2026-10-02
+[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,348 | 🐛 392 | 🌐 JavaScript | 📅 2026-10-02
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,659 | 🐛 759 | 🌐 C++ | 📅 2026-10-06
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,658 | 🐛 761 | 🌐 C++ | 📅 2026-10-06
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
 [Getting Started with Vulkan](https://vulkan-tutorial.com/)
 
-[Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples) ⭐ 5,391 | 🐛 62 | 🌐 C++ | 📅 2026-09-21
+[Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples) ⭐ 5,392 | 🐛 62 | 🌐 C++ | 📅 2026-09-21
 
 [Khronos Community Forums](https://community.khronos.org/)
 
@@ -1113,9 +1113,9 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) ⭐ 875 | 🐛 51 | 🌐 C | 📅 2026-10-05 is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
 
-[Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 497 | 🐛 27 | 🌐 C++ | 📅 2026-10-04 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
+[Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 497 | 🐛 29 | 🌐 C++ | 📅 2026-10-04 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
-[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,802 | 🐛 29 | 🌐 C++ | 📅 2026-10-05 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,801 | 🐛 28 | 🌐 C++ | 📅 2026-10-06 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
 [Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
 
@@ -1129,7 +1129,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,229 | 🐛 265 | 🌐 C++ | 📅 2026-10-06 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,230 | 🐛 266 | 🌐 C++ | 📅 2026-10-06 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -1141,13 +1141,13 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [VulkanSharp](https://github.com/mono/VulkanSharp) ⚠️ Archived is a project provides a .NET binding for the Vulkan API.
 
-[Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 403 | 🐛 2 | 🌐 C# | 📅 2026-09-29 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
+[Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 403 | 🐛 3 | 🌐 C# | 📅 2026-09-29 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,994 | 🐛 308 | 🌐 C | 📅 2026-10-06 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,994 | 🐛 310 | 🌐 C | 📅 2026-10-06 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 76,504 | 🐛 1,226 | 🌐 C++ | 📅 2026-10-05 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 76,508 | 🐛 1,226 | 🌐 C++ | 📅 2026-10-06 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
-[Ash](https://github.com/MaikKlein/ash) ⭐ 2,357 | 🐛 79 | 🌐 Rust | 📅 2026-09-25 is a very lightweight wrapper around Vulkan.
+[Ash](https://github.com/MaikKlein/ash) ⭐ 2,358 | 🐛 79 | 🌐 Rust | 📅 2026-10-06 is a very lightweight wrapper around Vulkan.
 
 [gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,398 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 is a low-level, cross-platform graphics and compute abstraction library in Rust.
 
@@ -1285,7 +1285,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
 
-[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,056 | 🐛 32 | 🌐 C++ | 📅 2026-10-05 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
+[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,057 | 🐛 32 | 🌐 C++ | 📅 2026-10-05 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
 
 [RTXMU - RTX Memory Utility SDK](https://github.com/NVIDIAGameWorks/RTXMU) ⭐ 143 | 🐛 2 | 🌐 C++ | 📅 2025-10-30 is an SDK tool that batchs up all of the acceleration structure build inputs and pass them to RTXMU which in turn will perform all the suballocation memory requests and build details including compaction. Then post build info is abstracted away by the SDK in order to do compaction under the hood. RTXMU returns acceleration structure handle ids that are used to reference the underlying memory buffers. These handle ids are passed into RTXMU to create compaction copy workloads, deallocate unused build resources or remove all memory associated with an acceleration structure.
 
@@ -1301,9 +1301,9 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,229 | 🐛 265 | 🌐 C++ | 📅 2026-10-06 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,230 | 🐛 266 | 🌐 C++ | 📅 2026-10-06 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,994 | 🐛 308 | 🌐 C | 📅 2026-10-06 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,994 | 🐛 310 | 🌐 C | 📅 2026-10-06 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
 [RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
@@ -1455,17 +1455,17 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Multi-View Environment (MVE)](https://www.gcc.tu-darmstadt.de/home/proj/mve/) is an effort to ease the work with multi-view datasets and to support the development of algorithms based on multiple views. It features Structure from Motion, Multi-View Stereo and Surface Reconstruction. MVE is developed at the TU Darmstadt.
 
-[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,508 | 🐛 37 | 🌐 C++ | 📅 2026-10-06 is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms. AliceVision comes up with strong software basis and state-of-the-art computer vision algorithms that can be tested, analyzed and reused.
+[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,509 | 🐛 37 | 🌐 C++ | 📅 2026-10-06 is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms. AliceVision comes up with strong software basis and state-of-the-art computer vision algorithms that can be tested, analyzed and reused.
 
-[Meshroom](https://github.com/alicevision/meshroom) ⭐ 12,992 | 🐛 527 | 🌐 Python | 📅 2026-10-06 is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
+[Meshroom](https://github.com/alicevision/meshroom) ⭐ 12,993 | 🐛 526 | 🌐 Python | 📅 2026-10-06 is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
 
 [PhotoModeler](https://www.photomodeler.com/) is a software extracts Measurements and Models from photographs taken with an ordinary camera. A cost-effective way for accurate 2D or 3D measurement, photo-digitizing, surveying, 3D scanning, and reality capture.
 
 [ODM](https://www.opendronemap.org/odm/) is an open source command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.
 
-[WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,505 | 🐛 112 | 🌐 Python | 📅 2026-09-16 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 99 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
+[WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,506 | 🐛 112 | 🌐 Python | 📅 2026-09-16 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 99 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
 
-[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 303 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-24 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,505 | 🐛 112 | 🌐 Python | 📅 2026-09-16. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,199 | 🐛 51 | 🌐 Python | 📅 2026-09-25, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 74 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
+[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 303 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-24 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,506 | 🐛 112 | 🌐 Python | 📅 2026-09-16. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,200 | 🐛 52 | 🌐 Python | 📅 2026-09-25, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 74 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
 
 [ClusterODM](https://www.opendronemap.org/clusterodm/) is a reverse proxy, load balancer and task tracker with optional cloud autoscaling capabilities for NodeODM API compatible nodes. In a nutshell, it's a program to link together multiple NodeODM API compatible nodes under a single network address.
 
@@ -1479,7 +1479,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [PhotoCatch Cloud](https://www.photocatch.app/cloud) is a professional service that brings desktop class photogrammetry and 3D editing tools to mobile devices, so you can capture, edit, and share 3D content on-site. It Syncs photo capture with your equipment and use Depth Capture so your 3D models stay the same size as the real world objects.
 
-[Martin](https://martin.maplibre.org/) is a tile server able to generate [vector tiles](https://github.com/mapbox/vector-tile-spec) ⭐ 1,010 | 🐛 46 | 📅 2026-06-29 from large [PostGIS](https://github.com/postgis/postgis) ⭐ 2,238 | 🐛 59 | 🌐 PLpgSQL | 📅 2026-10-05 databases on the fly, or serve tiles from [PMTile](https://protomaps.com/blog/pmtiles-v3-whats-new) and [MBTile](https://github.com/mapbox/mbtiles-spec) ⭐ 671 | 🐛 19 | 📅 2026-06-29 files. Martin optimizes for speed and heavy traffic, and is written in Rust.
+[Martin](https://martin.maplibre.org/) is a tile server able to generate [vector tiles](https://github.com/mapbox/vector-tile-spec) ⭐ 1,010 | 🐛 46 | 📅 2026-06-29 from large [PostGIS](https://github.com/postgis/postgis) ⭐ 2,238 | 🐛 59 | 🌐 PLpgSQL | 📅 2026-10-05 databases on the fly, or serve tiles from [PMTile](https://protomaps.com/blog/pmtiles-v3-whats-new) and [MBTile](https://github.com/mapbox/mbtiles-spec) ⭐ 672 | 🐛 19 | 📅 2026-06-29 files. Martin optimizes for speed and heavy traffic, and is written in Rust.
 
 # Geometric optics
 
@@ -2354,7 +2354,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Apache PredictionIO](https://predictionio.apache.org/) is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.
 
-[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,920 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
+[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,919 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
 
 [BigDL](https://bigdl-project.github.io/) is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
@@ -2362,13 +2362,13 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,173 | 🐛 1,821 | 🌐 Python | 📅 2026-10-05 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,174 | 🐛 1,821 | 🌐 Python | 📅 2026-10-05 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,352 | 🐛 686 | 🌐 Python | 📅 2026-10-06 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,353 | 🐛 684 | 🌐 Python | 📅 2026-10-06 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,300 | 🐛 805 | 🌐 Python | 📅 2026-10-06 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,300 | 🐛 799 | 🌐 Python | 📅 2026-10-06 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # Deep Learning
 
@@ -2475,7 +2475,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Apache PredictionIO](https://predictionio.apache.org/) is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.
 
-[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,920 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
+[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,919 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
 
 [BigDL](https://bigdl-project.github.io/) is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
@@ -2533,7 +2533,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,462 | 🐛 1,196 | 🌐 C++ | 📅 2026-10-06 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,462 | 🐛 1,194 | 🌐 C++ | 📅 2026-10-06 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 646 | 🐛 186 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
@@ -2617,9 +2617,9 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,173 | 🐛 1,821 | 🌐 Python | 📅 2026-10-05 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,174 | 🐛 1,821 | 🌐 Python | 📅 2026-10-05 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,352 | 🐛 686 | 🌐 Python | 📅 2026-10-06 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,353 | 🐛 684 | 🌐 Python | 📅 2026-10-06 for high performance training and inference.
 
 [CuPy](https://cupy.dev/) is an implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it. It supports a subset of numpy.ndarray interface.
 
@@ -2627,7 +2627,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [cuDF](https://rapids.ai/) is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,300 | 🐛 805 | 🌐 Python | 📅 2026-10-06 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,300 | 🐛 799 | 🌐 Python | 📅 2026-10-06 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 [ArrayFire](https://arrayfire.com/) is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices.
 
@@ -2841,7 +2841,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,521 | 🐛 1,085 | 🌐 CMake | 📅 2026-10-06 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,521 | 🐛 1,088 | 🌐 CMake | 📅 2026-10-06 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -2895,7 +2895,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,664 | 🐛 56 | 🌐 C++ | 📅 2026-10-02 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,667 | 🐛 56 | 🌐 C++ | 📅 2026-10-02 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -2940,7 +2940,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Real Python](https://realpython.com)
 
-[The Python Open Source Computer Science Degree by Forrest Knight](https://github.com/ForrestKnight/open-source-cs-python) ⭐ 3,963 | 🐛 19 | 📅 2025-06-11
+[The Python Open Source Computer Science Degree by Forrest Knight](https://github.com/ForrestKnight/open-source-cs-python) ⭐ 3,962 | 🐛 19 | 📅 2025-06-11
 
 [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
@@ -2970,21 +2970,21 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,720 | 🐛 343 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,735 | 🐛 343 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
 [Sentry](https://sentry.io/) is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
-[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,024 | 🐛 13 | 🌐 Python | 📅 2026-09-25 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
+[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,026 | 🐛 13 | 🌐 Python | 📅 2026-09-25 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
 
-[Python Fire](https://github.com/google/python-fire) ⭐ 28,223 | 🐛 205 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+[Python Fire](https://github.com/google/python-fire) ⭐ 28,224 | 🐛 205 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
 [Bottle](https://github.com/bottlepy/bottle) ⭐ 8,793 | 🐛 289 | 🌐 Python | 📅 2026-09-18 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
 
 [CherryPy](https://cherrypy.org) is a minimalist Python object-oriented HTTP web framework.
 
-[Sanic](https://github.com/huge-success/sanic) ⭐ 18,637 | 🐛 157 | 🌐 Python | 📅 2026-07-29 is a Python 3.6+ web server and web framework that's written to go fast.
+[Sanic](https://github.com/huge-success/sanic) ⭐ 18,638 | 🐛 157 | 🌐 Python | 📅 2026-07-29 is a Python 3.6+ web server and web framework that's written to go fast.
 
 [Pyramid](https://trypyramid.com) is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.
 
@@ -2996,11 +2996,11 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Dash](https://plotly.com/dash) is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.
 
-[Luigi](https://github.com/spotify/luigi) ⭐ 18,781 | 🐛 180 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
+[Luigi](https://github.com/spotify/luigi) ⭐ 18,781 | 🐛 181 | 🌐 Python | 📅 2026-10-06 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
 [Locust](https://github.com/locustio/locust) ⭐ 28,199 | 🐛 5 | 🌐 Python | 📅 2026-10-04 is an easy to use, scriptable and scalable performance testing tool.
 
-[spaCy](https://github.com/explosion/spaCy) ⭐ 33,940 | 🐛 248 | 🌐 Python | 📅 2026-09-30 is a library for advanced Natural Language Processing in Python and Cython.
+[spaCy](https://github.com/explosion/spaCy) ⭐ 33,943 | 🐛 248 | 🌐 Python | 📅 2026-09-30 is a library for advanced Natural Language Processing in Python and Cython.
 
 [NumPy](https://www.numpy.org/) is the fundamental package needed for scientific computing with Python.
 
@@ -3047,9 +3047,9 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 ## Lua Tools, Libraries, and Frameworks
 
-[Lua Language Server](https://github.com/sumneko/lua-language-server) ⭐ 4,382 | 🐛 714 | 🌐 Lua | 📅 2026-09-30 is an extension for VSCode that provides support for the Lua Language Server.
+[Lua Language Server](https://github.com/sumneko/lua-language-server) ⭐ 4,383 | 🐛 714 | 🌐 Lua | 📅 2026-09-30 is an extension for VSCode that provides support for the Lua Language Server.
 
-[Apache APISIX](https://github.com/apache/apisix) ⭐ 17,199 | 🐛 257 | 🌐 Lua | 📅 2026-10-04 is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.
+[Apache APISIX](https://github.com/apache/apisix) ⭐ 17,200 | 🐛 256 | 🌐 Lua | 📅 2026-10-04 is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.
 
 [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) ⭐ 7,946 | 🐛 119 | 🌐 C | 📅 2026-06-07 is an open source Lua based firmware for the [ESP8266 WiFi SOC from Espressif](https://espressif.com/en/products/esp8266/) and uses an on-module flash-based [SPIFFS](https://github.com/pellepl/spiffs) ⭐ 1,630 | 🐛 104 | 🌐 C | 📅 2026-07-16 file system.
 
@@ -3057,7 +3057,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [MoonScript](https://github.com/leafo/moonscript) ⭐ 3,471 | 🐛 158 | 🌐 C | 📅 2026-08-13 is a programmer friendly language that compiles into Lua.
 
-[Lapis](https://github.com/leafo/lapis) ⭐ 3,345 | 🐛 171 | 🌐 MoonScript | 📅 2026-09-29 is a web framework for Lua/MoonScript supporting [OpenResty](https://openresty.org/en/) or [http.server](https://github.com/daurnimator/lua-http) ⭐ 873 | 🐛 69 | 🌐 Lua | 📅 2024-09-08.
+[Lapis](https://github.com/leafo/lapis) ⭐ 3,345 | 🐛 171 | 🌐 MoonScript | 📅 2026-09-29 is a web framework for Lua/MoonScript supporting [OpenResty](https://openresty.org/en/) or [http.server](https://github.com/daurnimator/lua-http) ⭐ 873 | 🐛 69 | 🌐 Lua | 📅 2026-10-06.
 
 [Algernon](https://algernon.roboticoverlords.org) is a web server with built-in support for QUIC, HTTP/2, Lua, Markdown, Pongo2, HyperApp, Amber, Sass(SCSS), GCSS, JSX, BoltDB (built-in, stores the database in a file, like SQLite), Redis, PostgreSQL, MariaDB/MySQL, rate limiting, graceful shutdown, plugins, users and permissions.
 
@@ -3094,11 +3094,11 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,720 | 🐛 343 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,735 | 🐛 343 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
-[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,735 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
+[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,736 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
 [Websocat](https://github.com/vi/websocat) ⭐ 8,708 | 🐛 159 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
@@ -3268,7 +3268,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## SQL/NoSQL Tools and Databases
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,808 | 🐛 431 | 🌐 Go | 📅 2026-10-06 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,813 | 🐛 431 | 🌐 Go | 📅 2026-10-06 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
